@@ -56,16 +56,3 @@ Herenstraat100)
 300 - все інше
 
 +31853014850 - спільний номер
-
-
-
-
-tax@nalog.nl - Nal0g.nl)tax)2025)T 
-klantenservice@nalog.nl– Nal0g.nl)KLM-Dukaten82 
-info@nalog.nl – Nal0g.nl)info)2025)N
-emz@nalog.nl – Nal0g.nl)emz)2025 
-info@helpim.nl - Nal0g.nl)Helpim2025
-info@svitanok.nl - Nal0g.nl)svitanok2023
-migrant@nalog.nl - Nal0g.nl)migrant2023!
-boekhouding@nalog.nl - Nal0g.nl)buh2023@
-service@nalog.nl - Nal0g.nl)seminar
