@@ -1,12 +1,16 @@
-| Користувач          | Номер        |
-| ------------------- | ------------ |
-| Larionova Kateryna  | +31853696870 |
-| Polishchuk Tetiana  | +31853696850 |
-| Razenkova Kateryna  | +31853696815 |
-| Elena Shelkova      | +31853696895 |
-| Viktoria Bielousova | +31853696896 |
-| IT                  | +31853696005 |
-| Khimin Roman        | +31853696899 |
+| Користувач           | Номер        | АТС     |
+| -------------------- | ------------ | ------- |
+| Larionova Kateryna   | +31853696870 | 700     |
+| Polishchuk Tetiana   | +31853696850 | 701     |
+| Razenkova Kateryna   | +31853696815 | 702     |
+| Elena Shelkova       | +31853696895 | 103,105 |
+| Viktoria Bielousova  | +31853696896 | 101,104 |
+| IT                   | +31853696005 | 900     |
+| Khimin Roman         | +31853696899 | 901     |
+| Olha Lukashova       | +31853016909 | 106     |
+| Mukharsheva Valeriia | +31853696577 | 107     |
+| Radzevych Iryna      | +31853696599 | 108     |
+| Sidikova Alona       | +31853696801 | 109     |
 не менше 50 на місяць
 ![[Pasted image 20260302150827.png]]
 Моя АТС - Внутрішні номери
