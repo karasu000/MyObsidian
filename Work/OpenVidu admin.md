@@ -1,7 +1,7 @@
-OpenVidu Meet is available at:
+OpenVidu Meet is available at:                                                                              
 
-    URL: https://openvidu-4yxeru18a-91-98-88-6.sslip.io
-    Credentials:
-        - User: admin
-        - Password: VpAviy1XY7PVZ42FgjmnCGwhDIz60re8rj2oaPxuqfw
+    URL: https://openvidu-ustzx5jl-91-98-88-6.sslip.io     
+    Credentials:                                           
+        - User: admin                                      
+        - Password: ixUhnmNfbllyoKHf8YHLRZSaQhWL5vImiTf4HivxhL2A
 
