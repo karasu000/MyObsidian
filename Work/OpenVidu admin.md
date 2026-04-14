@@ -1,7 +1,6 @@
-OpenVidu Meet is available at:                                                                              
-
-    URL: https://openvidu-ustzx5jl-91-98-88-6.sslip.io     
-    Credentials:                                           
-        - User: admin                                      
-        - Password: ixUhnmNfbllyoKHf8YHLRZSaQhWL5vImiTf4HivxhL2A
+OpenVidu Meet is available at:                                                                
+    URL: https://meet-test.nalog.nl
+    Credentials:
+        - User: admin
+        - Password: ELe18SxfYjxHaK9EuonALn6F8VKrqEqTvDpcJpI7H91
 
