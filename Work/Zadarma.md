@@ -7,6 +7,7 @@
 | Viktoria Bielousova  | +31853696896                           | 101,104 |
 | IT                   | +31853696005                           | 900     |
 | Khimin Roman         | +31853696899                           | 901     |
+| Olha Lukashova       | +31853016909                           | 106     |
 | Mukharsheva Valeriia | +31853696577                           | 107     |
 | Oksana Gorupa        | (автоматично виставлений) +31853014850 | 502     |
 | Maneluk Svetlana     | (автоматично виставлений) +31853014850 | 505     |
