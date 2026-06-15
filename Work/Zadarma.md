@@ -9,8 +9,6 @@
 | Khimin Roman         | +31853696899                           | 901     |
 | Olha Lukashova       | +31853016909                           | 106     |
 | Mukharsheva Valeriia | +31853696577                           | 107     |
-| Radzevych Iryna      | +31853696599                           | 108     |
-| Sidikova Alona       | +31853696801                           | 109     |
 | Oksana Gorupa        | (автоматично виставлений) +31853014850 | 502     |
 | Maneluk Svetlana     | (автоматично виставлений) +31853014850 | 505     |
 
