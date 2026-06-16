@@ -32,7 +32,7 @@
 ~~Hlushchak  удаленщик~~
 ~~Larionova  удаленщик~~
 Polishchuk  удаленщик
-Razenkova  удаленщик
+~~Razenkova  удаленщик~~
 Vlasenko  удаленщик
     
 ~~Shliapnikova  офис~~
