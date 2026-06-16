@@ -27,9 +27,9 @@
 
 
 ~~Bardashevskyi  удаленщик~~
-Kravets  удаленщик
+~~Kravets  удаленщик~~
 ~~Logvinskaya  удаленщик~~
-Hlushchak  удаленщик
+~~Hlushchak  удаленщик~~
 ~~Larionova  удаленщик~~
 Polishchuk  удаленщик
 Razenkova  удаленщик
