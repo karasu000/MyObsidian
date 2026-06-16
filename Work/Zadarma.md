@@ -35,5 +35,5 @@ Polishchuk  удаленщик
 Razenkova  удаленщик
 Vlasenko  удаленщик
     
-Shliapnikova  офис
+~~Shliapnikova  офис~~
 Zheliezna  офис
