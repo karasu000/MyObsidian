@@ -1,6 +1,5 @@
 Данные для входа:
-**Insta** 
+**Instagram**
+Логин: nalog.nl
+Пароль: Nal0g.nl))pr25
 
-**nalog.nl**
-
-Nal0g.nl))pr25
