@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"66126f8c55827c17","type":"group","x":-2220,"y":-480,"width":1060,"height":1080,"label":"Ukraine — Immediate Preparation"},
+		{"id":"211a4edda6e56f5a","type":"group","x":-3520,"y":320,"width":1200,"height":800,"label":"Timeline and Status"},
+		{"id":"757dcdeccbb5b6e5","type":"group","x":-2130,"y":720,"width":880,"height":780,"label":"Košice — Initial Setup"},
+		{"id":"66620adbcdfc6ebe","type":"group","x":-1040,"y":520,"width":800,"height":269,"label":"Long-Term EU Residency Strategy"},
+		{"id":"266af5774932a4ca","type":"text","text":"### KNU Bachelor Doc\n\n- **Action:** Obtain MOUN Apostille on original plastic Bachelor's diploma + original diploma supplement.\n    \n- **Details:** Processed via \"Information & Image Center\" in Kyiv (No expiration date; no power of attorney required for submission).\n    \n- **Status:** \n  - [ ] Submitted to MOUN / Agency\n  - [ ] Received with Apostille\n\n","x":-2200,"y":-460,"width":1020,"height":240,"color":"#86a4fe"},
+		{"id":"ab2e88ae7607c9ee","type":"text","text":"### Academic-leave\n- **Action:** Submit official application for Academic Leave to Cybersecurity department dean's office (KNU).\n    \n- **Tools:** Sign via Diia.Signature (_Дія.Підпис_) or KNU Electronic Portal.","x":-2200,"y":-180,"width":1020,"height":160,"color":"#ffadad"},
+		{"id":"bd69096ffdb83370","type":"text","text":"### Legal Power if Attorney / Довіреність\n- **Action:**  Execute general Notarial Power of Attorney in Kyiv for trusted family member.","x":-2200,"y":220,"width":1020,"height":120,"color":"6"},
+		{"id":"603b52aaa4fc5bb6","type":"text","text":"### Police Clearance\n\n- **Action:** Request Police Clearance Certificate with MFA (_МЗС_) Apostille.\n    \n- **Timing:** Order 2–3 weeks prior to departure (Valid for 90 days in EU migration offices).","x":-2200,"y":20,"width":1020,"height":160,"color":"#4f4dff"},
+		{"id":"d12413b39d123651","type":"text","text":"### Work Netherlands B2B\n- **Required Documents:** Active B2B Agreement (stipulating fully remote work), invoices for past 6–12 months, matching bank payout statements, Employer Confirmation Letter.","x":-2200,"y":380,"width":1020,"height":140,"color":"#06feb4"},
+		{"id":"a6d7d2f722e7169c","type":"text","text":"### Kosice_Housing\n- **Platforms:** `nehnutelnosti.sk`, `reality.sk`, FB groups (_\"Prenájom Košice\"_).\n    \n- **Requirement:** Landlord must provide official Proof of Accommodation (_Potvrdenie o ubytovaní_) for Foreign Police.\n    \n- **Initial Budget:** 1st Month Rent + Deposit (_Kaucia_) = ~€1,000–€1,400.","x":-2110,"y":740,"width":840,"height":240,"color":"#955623"},
+		{"id":"53cb5e0e5d6f833f","type":"text","text":"### Temporary Protection\n\n- **Location:** Foreign Police (_Cudzinecká polícia_) / Registration Center in Košice.\n    \n- **Benefits:** Immediate legal stay, work permission, right to open bank accounts.\n    \n- **Requirements:** Passport + legal border crossing proof.","x":-2110,"y":1020,"width":840,"height":240,"color":"1"},
+		{"id":"9b4662fec8c82e82","type":"text","text":"### Banking\n- **Bank Options:** Tatra banka, Slovenská sporiteľňa (SLSP), ČSOB.\n    \n- **Action:** Open EUR account with Passport & Temporary Protection document; update SEPA IBAN details for Dutch payouts.","x":-2110,"y":1300,"width":840,"height":180,"color":"#248a0f"},
+		{"id":"5a09f6b0358c7d19","type":"text","text":"### Timeline\n\n- **December:** Apostille Bachelor’s degree & supplement at MOUN, execute Power of Attorney, compile B2B documents from Netherlands employer. / **Апостилювання бакалавра КНУ, довіреність, підготовка B2B-документів від Нідерландів.**\n    \n- **January:** Request police clearance certificate with apostille, submit academic leave application at KNU, book initial short-term stay in Košice. / **Замовлення довідки про несудимість, витяг/активація академвідпустки в КНУ, пошук тимчасового житла.**\n    \n- **February:** Relocate to Košice, apply for Temporary Protection *Dočasné útočisko*, open local bank account. / **Виїзд, прибуття в Кошице, подача на *Dočasné útočisko*, відкриття банку.**\n    \n- **March–April:** Secure long-term lease, decide on and launch EU residency process (Slovakia Živnosť vs. Spain Nomad Visa). /**Перехід на постійну оренду, вибір та запуск процесу ВНЖ (Словаччина vs Іспанія).**","x":-3500,"y":340,"width":1160,"height":480,"color":"1"},
+		{"id":"f04525ad04d82f09","type":"text","text":"### Canban\n\n| To Do | In Progress | Waiting / Blocked | Done |\n| ----- | ----------- | ----------------- | ---- |\n|       |             |                   |      |\n","x":-3500,"y":860,"width":1160,"height":240,"color":"4"},
+		{"id":"d46300aabfce8f36","type":"text","text":"### Residency Option Slovakia Zivnost\n- **Format:** Register Slovak Trade License / Sole Proprietorship (_Živnostník_) directly in Košice.\n    \n- **Requirements:** Proof of funds on bank accounts (~€5,000–€6,000), degree nostrification, apostilled police clearance.","x":-1020,"y":539,"width":766,"height":180}
+	],
+	"edges":[
+		{"id":"f78a75b307112ef6","fromNode":"211a4edda6e56f5a","fromSide":"right","toNode":"66126f8c55827c17","toSide":"left"},
+		{"id":"c7751de6c15193f8","fromNode":"211a4edda6e56f5a","fromSide":"right","toNode":"757dcdeccbb5b6e5","toSide":"left"},
+		{"id":"e37c7b47dc6d1058","fromNode":"757dcdeccbb5b6e5","fromSide":"right","toNode":"66620adbcdfc6ebe","toSide":"left"},
+		{"id":"baa04ce55f5e0abf","fromNode":"66126f8c55827c17","fromSide":"bottom","toNode":"a6d7d2f722e7169c","toSide":"top"},
+		{"id":"ff1af2cc28984a9b","fromNode":"266af5774932a4ca","fromSide":"right","toNode":"603b52aaa4fc5bb6","toSide":"right"},
+		{"id":"50dbbd8f755a8a7c","fromNode":"603b52aaa4fc5bb6","fromSide":"right","toNode":"53cb5e0e5d6f833f","toSide":"left"},
+		{"id":"ee3baf8927a2b928","fromNode":"d12413b39d123651","fromSide":"right","toNode":"9b4662fec8c82e82","toSide":"left"},
+		{"id":"91f650364c622594","fromNode":"9b4662fec8c82e82","fromSide":"right","toNode":"d46300aabfce8f36","toSide":"left"},
+		{"id":"2c143c44dabd63f7","fromNode":"ab2e88ae7607c9ee","fromSide":"right","toNode":"5a09f6b0358c7d19","toSide":"left"},
+		{"id":"1e1b9e81af097451","fromNode":"a6d7d2f722e7169c","fromSide":"right","toNode":"53cb5e0e5d6f833f","toSide":"left"}
+	]
+}
