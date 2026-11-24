@@ -8,8 +8,7 @@ Inputs:
 - Exact Login / Email: ict@nalog.nl
 - Exact Password: Herenstraat100)
 - Endpoint to retrieve the 2FA code (HTTP GET): https://fiscaal-api.nalog.nl/api/code
-- Easy CRM Email: rkhimin@nalog.nl
-- Easy CRM Password: n~%m92%GQf4x
+- CRM API Key: 6f4473c0644d5e8c12bfdbc341cafb0bf479a341
 - Output File: /Users/admin/.openclaw/workspace/exports/debtors_latest.xlsx
 
 Steps:
@@ -23,7 +22,7 @@ Steps:
 7. Run a shell command to copy the newest file from /Users/admin/.openclaw/tmp/playwright-artifacts-* (modified within the last 2 minutes, size > 0) to /Users/admin/.openclaw/workspace/exports/debtors_latest.xlsx:
    cp "$(ls -t /Users/admin/.openclaw/tmp/playwright-artifacts-*/* 2>/dev/null | head -n 1)" /Users/admin/.openclaw/workspace/exports/debtors_latest.xlsx
 8. Upload the saved Excel file to Easy CRM exactly once by running:
-   python3 /Users/admin/.openclaw/workspace/upload_debtors.py /Users/admin/.openclaw/workspace/exports/debtors_latest.xlsx "rkhimin@nalog.nl" "n~%m92%GQf4x"
+   python3 /Users/admin/.openclaw/workspace/upload_debtors.py /Users/admin/.openclaw/workspace/exports/debtors_latest.xlsx "6f4473c0644d5e8c12bfdbc341cafb0bf479a341"
 
 Rules & Output:
 - Never modify data, delete records, or send emails in Exact Online.
