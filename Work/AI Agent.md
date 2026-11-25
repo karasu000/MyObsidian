@@ -29,3 +29,47 @@ Rules & Output:
 - Upload the file to CRM only ONCE per run (each successful upload creates a new report).
 - Verify /Users/admin/.openclaw/workspace/exports/debtors_latest.xlsx exists and size > 0 bytes before uploading.
 - Return: local .xlsx path, file size, CRM upload response (upload ID and full report URL), timestamp, and step statuses.
+  
+  
+  
+  
+  
+  
+  
+mkdir -p /Users/admin/.openclaw/worker /Users/admin/.openclaw/workspace/exports
+
+cat << 'EOF' > /Users/admin/.openclaw/worker/.env
+# --- Worker & OpenClaw ---
+WORKER_ID=mac-mini-5
+POLL_INTERVAL_SEC=10
+OPENCLAW_AGENT_ID=fiscaal-auto
+SCREEN_INDEX=1
+
+# --- PostgreSQL Database ---
+DB_HOST=167.235.114.245 
+DB_PORT=54320
+DB_NAME=postgres
+DB_USER=nalog
+DB_PASSWORD=Herenstraat100)
+
+# --- Wasabi S3 (Докази виконання) ---
+S3_ENDPOINT=https://s3.eu-central-1.wasabisys.com
+S3_BUCKET=agent-steps-record
+S3_ACCESS_KEY=847K8VDHLH3LBZKO9QFM
+S3_SECRET_KEY=2b1zeeTZCQhez0HP8gcFJPmMkvMEB6Kz1gCcpEP5
+
+# --- Задача 1: Exact Online + Easy CRM ---
+EXACT_LOGIN_URL= https://start.exactonline.nl/docs/Login.aspx
+EXACT_ADMIN_URL= https://start.exactonline.nl/docs/MenuPortal.aspx?_Division_=139623
+EXACT_LOGIN=ict@nalog.nl
+EXACT_PASSWORD=Herenstraat100)
+EXACT_2FA_URL=https://fiscaal-api.nalog.nl/api/code
+CRM_API_KEY=6f4473c0644d5e8c12bfdbc341cafb0bf479a341
+
+# --- Задача 2: Fiscaal (Machtiging) ---
+FISCAAL_URL=https://start.fiscaalgemak.nl/
+FISCAAL_LOGIN=ict@nalog.nl
+FISCAAL_PASSWORD=Herenstraat100)
+EOF
+
+chmod 600 /Users/admin/.openclaw/worker/.env
