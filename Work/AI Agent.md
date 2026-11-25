@@ -73,3 +73,12 @@ FISCAAL_PASSWORD=Herenstraat100)
 EOF
 
 chmod 600 /Users/admin/.openclaw/worker/.env
+
+
+
+
+INSERT INTO public."tasks-query" (task_type, payload)
+VALUES (
+    'fiscaal_machtiging_activate',
+    '{"bsn": "123456789", "activation_code": "XXXX-XXXX", "client_name": "Ім''я Клієнта", "machtiging_type": "VIA doorlopend", "year": ""}'::jsonb
+);
