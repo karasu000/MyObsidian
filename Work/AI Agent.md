@@ -82,3 +82,10 @@ VALUES (
     'fiscaal_machtiging_activate',
     '{"bsn": "123456789", "activation_code": "XXXX-XXXX", "client_name": "Ім''я Клієнта", "machtiging_type": "VIA doorlopend", "year": ""}'::jsonb
 );
+
+
+
+
+
+mpnMmgBQ9wsG5FCNCKOa0NIKzkyAFAMy
+
